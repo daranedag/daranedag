@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hola!!👋
 
+- 🔭 Actualmente estoy trabajando con PL/SQL y PHP para Sistemas Legados... si antuguos
+- 🌱 Estoy aprendiendo para ser Fullstack Javascript
+- 👯 Me gustaría colaborar en proyectos que faciliten la vida a las personas diariamente.
+- 🤔 Busco ayuda con Docker (desde lo básico)
+- 📫Me puedes encontrar en diferentes plataformas:
+Instagram, X, Discord, Twitch, GMaiL
+- ⚡ Dato curioso: Me gusta la lasagna
+- 
 <!--
 **daranedag/daranedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -36,4 +36,4 @@ Me falta twitch aqui, hago directos dos días a la semana donde comparto diferen
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daranedag&show_icons=true&locale=en&layout=compact" alt="daranedag" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daranedag&show_icons=true&locale=en" alt="daranedag" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daranedag&show_icons=true&locale=en" alt="daranedag" /></p>-->

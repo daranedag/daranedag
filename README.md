@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr_diegui" target="blank"><img src="https://img.shields.io/twitter/follow/mr_diegui?logo=twitter&style=for-the-badge" alt="mr_diegui" /></a> </p>
 
-- 🔭 Estoy trabajando actualmente en **Integración Whatsapp**
+- 🔭 Estoy trabajando actualmente en **Backend for Idea Garden & CER UACh platform**
 
 - 🌱 Estoy aprendiendo **Fullstack Javascript, React y Node**
 

@@ -27,8 +27,6 @@
 <a href="https://linkedin.com/in/daranedag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daranedag" height="30" width="40" /></a>
 <a href="https://instagram.com/mrdiegui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrdiegui" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mr_diegui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mr_diegui" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@el_diegui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@el_diegui" height="30" width="40" /></a>
-Me falta twitch aqui, hago directos dos días a la semana donde comparto diferentes cosas a nivel de conversaciones, juegos y programación ;)
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3><span>Esto no es que sea pro en todo, sino es lo que he trabajado o tengo experiencia en...</span>

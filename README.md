@@ -13,8 +13,6 @@
 
 - 📝 Escribo o publico cosas en [https://www.linkedin.com/in/daranedag/](https://www.linkedin.com/in/daranedag/)
 
-- 💬 Me puedes preguntar **Python, HTML, CSS y JS**
-
 - 📫 DMs **daranedag@gmail.com**
 
 - 📄 Mis experiencias [Aun no tengo el link](Aun no tengo el link)
